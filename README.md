@@ -74,7 +74,7 @@
 - Sau khi cài đặt, khởi động lại terminal hoặc VS Code để font được áp dụng.
 - Nếu vẫn lỗi ký tự, kiểm tra lại tên font đã nhập đúng chưa (`JetBrainsMono Nerd Font`).
 
--## 4. Tham Khảo
+## 4. Tham Khảo
 - [Nerd Fonts Documentation](https://www.nerdfonts.com/font-downloads)
 - [Cách đổi font cho Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/profile-font)
 
